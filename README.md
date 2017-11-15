@@ -1,5 +1,5 @@
-# docker
-docker dockerfile
+# Docker
+Docker dockerfile
 
 ### Running a systemd enabled app container
 
